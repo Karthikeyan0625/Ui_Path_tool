@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Test site with log-in  Web Scraper Test ",
+  "Type": "Screen",
+  "Id": "i-msB2LmekeFMmeviuQEJA",
+  "Reference": "O6n4dH2Jh0mRtNe7-bMJ3Q/i-msB2LmekeFMmeviuQEJA",
+  "ParentRef": "O6n4dH2Jh0mRtNe7-bMJ3Q/65kYASfckkGA5hCtaSQO1g",
+  "Created": "2026-07-16T05:54:19.4416374Z",
+  "Updated": "2026-07-16T05:54:19.4416374Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
